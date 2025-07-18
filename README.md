@@ -57,7 +57,7 @@ This project explores an eCommerce dataset to draw actionable insights, such as 
  How to Run Locally
 1. Clone the repository
 ```
- git clone https://github.com/yourusername/Consumer-Optimization.git
+ git clone https://github.com/AdrikaPanwar/Consumer-Optimization.git
 cd Consumer-Optimization
 ```
 2. Install necessary libraries
